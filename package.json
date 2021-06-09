@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "jest": "27.0.4"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@tanker/client-node": "2.14.0"
+  },
+  "scripts": {
+    "test": "jest ./test.js",
+    "run": "node ./run.js"
+  }
+}
