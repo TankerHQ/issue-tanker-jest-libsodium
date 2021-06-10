@@ -4,7 +4,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@tanker/client-node": "2.14.0"
+    "@tanker/client-node": "2.15-alpha1"
   },
   "scripts": {
     "test": "jest ./test.js",
